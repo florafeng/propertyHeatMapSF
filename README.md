@@ -1,4 +1,5 @@
 # Heat map of property listings in San Francisco
+![image](demo.png)
 
 ## Design
 ### Back End:
